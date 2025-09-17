@@ -27,25 +27,3 @@ Thực hành môn Lập trình Web, yêu cầu:
   
   CSS responsive, hỗ trợ dark UI
 
-📂 Cấu trúc thư mục
-my-music-app/
- ┣ app/
- ┃ ┣ components/
- ┃ ┃ ┣ Header.js
- ┃ ┃ ┣ Hero.js
- ┃ ┃ ┣ Player.js
- ┃ ┃ ┣ Section.js
- ┃ ┃ ┣ SongCard.js
- ┃ ┃ ┗ TrackList.js
- ┃ ┣ globals.css
- ┃ ┣ layout.js
- ┃ ┣ page.js          # Trang chủ
- ┃ ┣ playlist/
- ┃ ┃ ┗ page.js        # Playlist
- ┃ ┗ contact/
- ┃    ┗ page.js       # Contact
- ┣ public/
- ┃ ┣ cover1.jpg
- ┃ ┣ cover2.jpg
- ┃ ┗ default.jpg
- ┗ package.json
