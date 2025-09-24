@@ -1,5 +1,8 @@
 Lab3:
+
   Dựa trên project các bạn đã tạo hôm trước, luyện tập tạo component, sử dụng các kiểu truyền props vào component
+
+  
 Lab2:
 Thực hành môn Lập trình Web, yêu cầu:
 
